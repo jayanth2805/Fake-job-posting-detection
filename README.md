@@ -1,6 +1,7 @@
 # Fake-job-posting-detection
 Detection fake job postings using Machine learning and Natural Language processing. To increase the efficency of the model boosting algorithms are used. Publicly available dataset which is EMSCAD is used as source. To balance the dissimilarities in the data sampling techniques which include SMOTE and ADASYN are performed.
-Abstract
+
+** Abstract**
 While many organizations these days prefer to post their job opportunities
 on the web so that job seekers can access them conveniently and easily, this
 practice might be an example of scam from the side of swindlers who offer job
